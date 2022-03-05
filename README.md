@@ -2,15 +2,15 @@
 
 # Authors:
 
-Chelsea Nwankpa(SWE)
-Denvinn Magsino(SWE)
-Neeti Bhatt(SWE)
-Riva Davidowski (SWE)
-Zarina Mazieva(TPM/LEAD)
+- Chelsea Nwankpa(SWE)
+- Denvinn Magsino(SWE)
+- Neeti Bhatt(SWE)
+- Riva Davidowski (SWE)
+- Zarina Mazieva(TPM/LEAD)
 
 
-During this week long lab, our team planned out the tasks for writing a Wheel of Fortune console application. 
-We worked to:
+**During this week long lab, our team planned out the tasks for writing a Wheel of Fortune console application. 
+We worked to:**
 
 - Create a team agreement
 - Understand the MVP and all core features
@@ -23,9 +23,10 @@ We worked to:
 - Present our project to the cohort
 
 
-MVP hit for Sprint 1:
+**MVP hit for Sprint 1:**
 
 Minimum Viable Product (MVP)
+
 1. Supports one player
 2. Choose a string 
 a. Hardcoded is fine
@@ -38,10 +39,11 @@ a. If guess is correct (not case sensitive), player wins
 b. If guess is not correct, keep playing
 
 # Tools Used
-AzureDevOps
-C#
+
+1. AzureDevOps
+2. C#
 
 #Contributors
 
-Marlon Hernandez
-Yu Che Liu
+- Marlon Hernandez(instructor)
+- Yu Che Liu(TA)
